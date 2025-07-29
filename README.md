@@ -44,10 +44,10 @@ The website was hard to navigate and the UI was cluttered.
 
 ### 🎥 Videos
 
-- [Desktop Version Before (Google Drive)](https://drive.google.com/file/d/1U7CPXiwn_GFDZZgGmvg91003QF3qf25V/view?usp=sharing)
+- [Desktop Version Before (Google Drive)](https://drive.google.com/file/d/1UJ0aUhzU4VsVtoX1Xr6SdgI8f1rMdWm_/view?usp=drive_link)
 - [Mobile Version Before (Google Drive)](https://drive.google.com/file/d/1lrdiWoubQmm0fCDYuFZeNP24WO0XA30U/view?usp=sharing)
-- [Desktop Version (Google Drive)](https://drive.google.com/file/d/1QeQKeqVmRmpB6vp2odPyl7QH6FmbMVpJ/view?usp=sharing)
-- [Mobile Version (Google Drive)](https://drive.google.com/file/d/1U7CPXiwn_GFDZZgGmvg91003QF3qf25V/view?usp=sharing)
+- [Desktop Version After(Google Drive)](https://drive.google.com/file/d/1QeQKeqVmRmpB6vp2odPyl7QH6FmbMVpJ/view?usp=sharing)
+- [Mobile Version After(Google Drive)](https://drive.google.com/file/d/1U7CPXiwn_GFDZZgGmvg91003QF3qf25V/view?usp=sharing)
 
 ## Tools & Tech
 
