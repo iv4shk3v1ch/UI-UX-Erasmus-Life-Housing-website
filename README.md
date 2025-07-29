@@ -42,6 +42,13 @@ The website was hard to navigate and the UI was cluttered.
 
 <img width="434" height="899" alt="ErasmusHousing_after_mobile" src="https://github.com/user-attachments/assets/8988d81d-ebc7-46e9-ac4e-d5cac7e9a82e" />
 
+### 🎥 Videos
+
+- [Desktop Version Before (Google Drive)]([https://drive.google.com/your-desktop-link](https://drive.google.com/file/d/1UJ0aUhzU4VsVtoX1Xr6SdgI8f1rMdWm_/view?usp=sharing))
+- [Mobile Version Before (Google Drive)](https://drive.google.com/file/d/1lrdiWoubQmm0fCDYuFZeNP24WO0XA30U/view?usp=sharing)
+- [Desktop Version (Google Drive)](https://drive.google.com/file/d/1QeQKeqVmRmpB6vp2odPyl7QH6FmbMVpJ/view?usp=sharing)
+- [Mobile Version (Google Drive)]([https://drive.google.com/your-mobile-link](https://drive.google.com/file/d/1U7CPXiwn_GFDZZgGmvg91003QF3qf25V/view?usp=sharing))
+
 ## Tools & Tech
 
 - WordPress (UI editing, plugins, theme customization)  
